@@ -19,3 +19,10 @@
   top:17;
   bottom:1;
 }
+
+#wall #tag-3 {
+  z-index: 1;
+  display: none;
+  top:17;
+  bottom:1;
+}
